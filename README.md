@@ -4,3 +4,11 @@ This project aims to develop a system to generate captions using computer vision
 #### Project Contributors: Deepa Akkala, Madhulika Pimple, Laxmi Patil, Satish Kumar Potru, Vijay Bhadrashetti
 
 ### Flikr 8K dataset: https://forms.illinois.edu/sec/1713398
+
+#### Required libraries:
+- tensorflow
+- keras
+- pillow
+- numpy
+- tqdm
+- jupyterlab
